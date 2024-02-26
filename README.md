@@ -1,5 +1,4 @@
 # Self-playing-Generative-Ambient-Patch
-self-playing generative ambient patch
 
 Reproduction of this generative Ambient Patch from **Omri Cohen** 
 
